@@ -1,6 +1,6 @@
 # travelog app
 
-This repo includes the wireframes and User stories for the travelog project.
+This repo includes the Wireframes and User stories for the travelog project.
 
 ## Screens & Wireframes
 
