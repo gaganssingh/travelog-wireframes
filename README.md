@@ -22,10 +22,10 @@ This repo includes the wireframes and User stories for the travelog project.
 
 -   My Places (nav button) -> Takes user to the My Places page (shown only if user is logged in)
 -   Add a Place (nav button) -> Takes user to the Add a Place page (shown only if user is logged in)
--   Signup or Login (buttons at the bottom section of page) -> user taken to the signup/login page
 -   Signup (nav button) -> Taken to Sign Up page (shown only if not logged in)
 -   Login (nav button) -> Taken to Login Page (shown only if not logged in)
 -   Logout (nav button) -> Upon clicking, user is logged out (shown only if user is logged in)
+-   Signup or Login (buttons at the bottom section of page) -> user taken to the signup/login page
 
 ### Signup page
 
